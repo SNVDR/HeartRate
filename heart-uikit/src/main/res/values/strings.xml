@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HeartRate</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="onboarding_1_title">Ваш трекер тиску</string>
+    <string name="onboarding_1_description">Зазначайте, відстежуйте та аналізуйте свої показники артеріального тиску.</string>
+    <string name="onboarding_2_title">Персоналізовані поради</string>
+    <string name="onboarding_2_description">Програма надає дієві поради, які допоможуть вам підтримувати оптимальний рівень артеріального тиску та зменшити фактори ризику серцево-судинних захворювань.</string>
+    <string name="onboarding_3_title">Нагадування</string>
+    <string name="onboarding_3_description">Не відставайте від графіка контролю артеріального тиску та прийому ліків за допомогою спеціальних нагадувань.</string>
+    <string name="begin">Почати!</string>
+    <string name="continuee">Продовжити!</string>
+    <string name="history">Історія</string>
+    <string name="no_finger">Палець не виялено</string>
+    <string name="place_finger_on_cam">Щільно прикладіть палець до камери</string>
+    <string name="your_result">Ваш результат</string>
+    <string name="result">Результат</string>
+    <string name="time">Час</string>
+    <string name="normal">Звичайний</string>
+    <string name="slow_bpm">Уповільнений</string>
+    <string name="normal_bpm">Звичайний</string>
+    <string name="high_bpm">Прискорений</string>
+    <string name="slow_bpm_range"> \u003C 60</string>
+    <string name="normal_bpm_range">60 – 100</string>
+    <string name="high_bpm_range"> \u003E 100</string>
+    <string name="first_measurement">Виконайте своє перше вимірювань!</string>
+    <string name="clean_history">Очистити історію</string>
+</resources>
