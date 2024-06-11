@@ -1,1 +1,1 @@
-Technical task for the company.
+Test task for the company.
